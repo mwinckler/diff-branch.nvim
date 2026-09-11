@@ -81,3 +81,13 @@ opts = {
   keymap = "<leader>gF", -- or false
 }
 ```
+
+## Prompt
+
+This repo is unabashedly AI slop. If you'd like to mix your own slop, here's a prompt to get you started:
+
+```
+Write a LazyVim command that will diff the current file against the same file in a different Git branch (default to master) using the configured git difftool. Package it as a LazyVim plugin so I can share it with others.
+```
+
+
